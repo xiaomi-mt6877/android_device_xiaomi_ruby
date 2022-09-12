@@ -48,6 +48,15 @@ TARGET_SCREEN_WIDTH := 1080
 # Overlays
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
+# Audio
+PRODUCT_PACKAGES += \
+    audio.bluetooth.default \
+    audio.r_submix.default \
+    audio.usb.default \
+    libtinycompress \
+    libtinyxml \
+    tinymix
+
 # Soong Namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
