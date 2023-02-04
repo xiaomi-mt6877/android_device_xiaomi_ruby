@@ -89,6 +89,10 @@ TARGET_USERIMAGES_USE_F2FS := true
 # Vendor Security Patch Level
 VENDOR_SECURITY_PATCH := 2022-04-05
 
+# Verified Boot
+BOARD_AVB_ENABLE := true
+BOARD_AVB_MAKE_VBMETA_IMAGE_ARGS += --flags 3
+
 # VNDK
 BOARD_VNDK_VERSION := current
 
