@@ -104,10 +104,6 @@ vendor/lib/android.hardware.audio.effect@7.0.so
 vendor/lib/android.hardware.audio@6.0.so
 vendor/lib/android.hardware.audio@7.0-util.so
 vendor/lib/android.hardware.audio@7.0.so
-vendor/lib/hw/android.hardware.audio.effect@6.0-impl.so
-vendor/lib/hw/android.hardware.audio.effect@7.0-impl.so
-vendor/lib/hw/android.hardware.audio@6.0-impl-mediatek.so
-vendor/lib/hw/android.hardware.audio@7.0-impl-mediatek.so
 vendor/lib/hw/audio.primary.default.so
 vendor/lib/hw/audio.primary.mt6877.so
 vendor/lib/hw/audio.r_submix.mt6877.so
@@ -128,10 +124,6 @@ vendor/lib64/android.hardware.audio.effect@7.0.so
 vendor/lib64/android.hardware.audio@6.0.so
 vendor/lib64/android.hardware.audio@7.0-util.so
 vendor/lib64/android.hardware.audio@7.0.so
-vendor/lib64/hw/android.hardware.audio.effect@6.0-impl.so
-vendor/lib64/hw/android.hardware.audio.effect@7.0-impl.so
-vendor/lib64/hw/android.hardware.audio@6.0-impl-mediatek.so
-vendor/lib64/hw/android.hardware.audio@7.0-impl-mediatek.so
 vendor/lib64/hw/audio.primary.default.so
 vendor/lib64/hw/audio.primary.mt6877.so
 vendor/lib64/hw/audio.r_submix.mt6877.so
