@@ -71,6 +71,10 @@ PRODUCT_PACKAGES += \
     libdrmclearkeyplugin \
     android.hardware.drm@1.4.vendor
 
+# fastbootd
+PRODUCT_PACKAGES += \
+    fastbootd
+
 # Soong Namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
