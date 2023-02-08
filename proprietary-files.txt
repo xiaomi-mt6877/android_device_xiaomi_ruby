@@ -2041,19 +2041,6 @@ vendor/lib64/libFrameRecord.so
 vendor/lib64/libNoFpsActor.so
 vendor/lib64/libgpud.so
 
-# Health
-vendor/bin/hw/android.hardware.health@2.1-service
-vendor/etc/init/android.hardware.health@2.1-service.rc
--vendor/etc/vintf/manifest/android.hardware.health@2.1.xml
-vendor/lib/android.hardware.health@1.0.so
-vendor/lib/android.hardware.health@2.0.so
-vendor/lib/android.hardware.health@2.1.so
-vendor/lib/hw/android.hardware.health@2.0-impl-2.1.so
-vendor/lib64/android.hardware.health@1.0.so
-vendor/lib64/android.hardware.health@2.0.so
-vendor/lib64/android.hardware.health@2.1.so
-vendor/lib64/hw/android.hardware.health@2.0-impl-2.1.so
-
 # IFAA
 -vendor/app/IFAAService/IFAAService.apk
 
