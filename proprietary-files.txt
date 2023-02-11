@@ -2376,17 +2376,11 @@ vendor/lib64/android.hardware.radio@1.6.so
 
 # Sensors
 vendor/etc/elliptic_sensor.xml
-vendor/lib/android.hardware.sensors@1.0.so
 vendor/lib/android.hardware.sensors@2.0-ScopedWakelock.so
-vendor/lib/android.hardware.sensors@2.0.so
-vendor/lib/android.hardware.sensors@2.1.so
 vendor/lib/hw/sensors.elliptic.so
 vendor/lib/hw/sensors.touch.detect.so
 vendor/lib/libssccalapi.so
-vendor/lib64/android.hardware.sensors@1.0.so
 vendor/lib64/android.hardware.sensors@2.0-ScopedWakelock.so
-vendor/lib64/android.hardware.sensors@2.0.so
-vendor/lib64/android.hardware.sensors@2.1.so
 vendor/lib64/hw/sensors.elliptic.so
 vendor/lib64/hw/sensors.mt6877.so
 vendor/lib64/hw/sensors.touch.detect.so
@@ -2678,7 +2672,6 @@ vendor/etc/virtual-spn-conf-by-efpnn.xml
 vendor/etc/virtual-spn-conf-by-efspn.xml
 vendor/etc/virtual-spn-conf-by-imsi.xml
 vendor/etc/xgf.cfg
-vendor/lib/android.frameworks.sensorservice@1.0.so
 vendor/lib/android.hardware.boot@1.0.so
 vendor/lib/android.hardware.boot@1.1.so
 vendor/lib/android.hardware.boot@1.2.so
@@ -2922,7 +2915,6 @@ vendor/lib/soundfx/libswgamedap.so
 vendor/lib/soundfx/libswvqe.so
 vendor/lib/VP9SecureVdecCA.so
 vendor/lib/wechat.beanpod.so
-vendor/lib64/android.frameworks.sensorservice@1.0.so
 vendor/lib64/android.hardware.boot@1.0.so
 vendor/lib64/android.hardware.boot@1.1.so
 vendor/lib64/android.hardware.boot@1.2.so
