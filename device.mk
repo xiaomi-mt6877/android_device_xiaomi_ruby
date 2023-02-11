@@ -111,6 +111,10 @@ PRODUCT_PACKAGES += \
     libsoft_attestation_cert.vendor \
     android.hardware.keymaster@4.1.vendor
 
+# Sensors
+PRODUCT_PACKAGES += \
+    libsensorndkbridge
+
 # Soong Namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
