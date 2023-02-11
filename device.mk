@@ -115,6 +115,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+# Thermal
+PRODUCT_SOONG_NAMESPACES += \
+    android.hardware.thermal@2.0-impl \
+    android.hardware.thermal@2.0.vendor
+
 # USB
 PRODUCT_PACKAGES += \
     android.hardware.usb@1.0.vendor \
