@@ -1676,10 +1676,8 @@ vendor/etc/dsi_m16_45_02_0c_dsc_vdo_mi.xml
 
 # Display-Hardware
 vendor/bin/hw/android.hardware.graphics.allocator@4.0-service-mediatek
-vendor/bin/hw/android.hardware.graphics.composer@2.3-service
 vendor/bin/hw/android.hardware.memtrack@1.0-service
 vendor/etc/init/android.hardware.graphics.allocator@4.0-service-mediatek.rc
-vendor/etc/init/android.hardware.graphics.composer@2.3-service.rc
 vendor/etc/init/android.hardware.memtrack@1.0-service.rc
 vendor/lib/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so
 vendor/lib/hw/android.hardware.graphics.mapper@4.0-impl-mediatek.so

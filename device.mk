@@ -65,6 +65,10 @@ PRODUCT_PACKAGES += \
     android.hardware.bluetooth@1.0.vendor \
     android.hardware.bluetooth@1.1.vendor
 
+# Display
+PRODUCT_PACKAGES += \
+    android.hardware.graphics.composer@2.3-service
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.4-service.clearkey \
