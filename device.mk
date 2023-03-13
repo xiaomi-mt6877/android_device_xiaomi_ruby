@@ -178,7 +178,8 @@ PRODUCT_PACKAGES += \
 
 # Rootdir
 PRODUCT_PACKAGES += \
-    fstab.mt6877
+    fstab.mt6877 \
+    fstab.mt6877_ramdisk \
 
 # Sensors
 PRODUCT_PACKAGES += \
