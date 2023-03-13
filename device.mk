@@ -176,6 +176,10 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.config@1.3.vendor \
     android.hardware.radio.deprecated@1.0.vendor \
 
+# Rootdir
+PRODUCT_PACKAGES += \
+    fstab.mt6877
+
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0.vendor \
